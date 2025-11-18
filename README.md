@@ -8,6 +8,9 @@ Due to GitHub file-size constraints, all large assets are hosted externally on G
 🔗 Dataset<br>
 👉 https://drive.google.com/drive/folders/1tbtC8l-8qu9T-K6VdNnTbIRC-z-nOdx6?usp=sharing<br>
 
+🔗 Sample Upscaled Dataset by 4xUltrasharp<br>
+👉 https://www.kaggle.com/datasets/apurba14/4ultrasharp-enhanced-histopathology-image/data<br>
+
 🔗 Trained Model<br>
 Download trained CNN models:
 👉 https://drive.google.com/drive/folders/1oSiLuKIvqtw9ryGnWb_ms9BmrOa9BkoP?usp=sharing<br>
